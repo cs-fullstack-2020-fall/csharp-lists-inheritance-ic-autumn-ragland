@@ -1,0 +1,13 @@
+C:\Users\student\Code_School\cohort5\sprint_three\csharp\200812\csharp-lists-inheritance-ic-autumn-ragland\InClassPractice\bin\Debug\netcoreapp3.1\InClassPractice.exe
+C:\Users\student\Code_School\cohort5\sprint_three\csharp\200812\csharp-lists-inheritance-ic-autumn-ragland\InClassPractice\bin\Debug\netcoreapp3.1\InClassPractice.deps.json
+C:\Users\student\Code_School\cohort5\sprint_three\csharp\200812\csharp-lists-inheritance-ic-autumn-ragland\InClassPractice\bin\Debug\netcoreapp3.1\InClassPractice.runtimeconfig.json
+C:\Users\student\Code_School\cohort5\sprint_three\csharp\200812\csharp-lists-inheritance-ic-autumn-ragland\InClassPractice\bin\Debug\netcoreapp3.1\InClassPractice.runtimeconfig.dev.json
+C:\Users\student\Code_School\cohort5\sprint_three\csharp\200812\csharp-lists-inheritance-ic-autumn-ragland\InClassPractice\bin\Debug\netcoreapp3.1\InClassPractice.dll
+C:\Users\student\Code_School\cohort5\sprint_three\csharp\200812\csharp-lists-inheritance-ic-autumn-ragland\InClassPractice\bin\Debug\netcoreapp3.1\InClassPractice.pdb
+C:\Users\student\Code_School\cohort5\sprint_three\csharp\200812\csharp-lists-inheritance-ic-autumn-ragland\InClassPractice\obj\Debug\netcoreapp3.1\InClassPractice.csprojAssemblyReference.cache
+C:\Users\student\Code_School\cohort5\sprint_three\csharp\200812\csharp-lists-inheritance-ic-autumn-ragland\InClassPractice\obj\Debug\netcoreapp3.1\InClassPractice.AssemblyInfoInputs.cache
+C:\Users\student\Code_School\cohort5\sprint_three\csharp\200812\csharp-lists-inheritance-ic-autumn-ragland\InClassPractice\obj\Debug\netcoreapp3.1\InClassPractice.AssemblyInfo.cs
+C:\Users\student\Code_School\cohort5\sprint_three\csharp\200812\csharp-lists-inheritance-ic-autumn-ragland\InClassPractice\obj\Debug\netcoreapp3.1\InClassPractice.csproj.CoreCompileInputs.cache
+C:\Users\student\Code_School\cohort5\sprint_three\csharp\200812\csharp-lists-inheritance-ic-autumn-ragland\InClassPractice\obj\Debug\netcoreapp3.1\InClassPractice.dll
+C:\Users\student\Code_School\cohort5\sprint_three\csharp\200812\csharp-lists-inheritance-ic-autumn-ragland\InClassPractice\obj\Debug\netcoreapp3.1\InClassPractice.pdb
+C:\Users\student\Code_School\cohort5\sprint_three\csharp\200812\csharp-lists-inheritance-ic-autumn-ragland\InClassPractice\obj\Debug\netcoreapp3.1\InClassPractice.genruntimeconfig.cache
